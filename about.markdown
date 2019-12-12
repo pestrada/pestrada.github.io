@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am a Software engineer and former research professor.
+![paul estrada](/assets/images/paul-photo.jpg){:height="200px" width="140px"}
 
-Throughout my career, I have designed and implemented software systems, web, mobile and networked applications. My roles have included being a technical lead, software engineering, mentoring developers and providing consultancy services for several companies.
+Hello, I am Paul Estrada, currently I'm a Software Engineering Lead at [Tiempo](http://www.tiempodev.com/), working on Android projects and contributing to software consultancy services.
+
+In the past I was a research professor with backgrounds in HCI, R&D, computer science and did software consultancy work for some companies.
+
+Throughout my career, I have designed and implemented software systems, web, mobile and networked applications. My roles have included being a technical lead, software engineering, mentoring developers and providing on-site support.
 
 I earned a MSc. Degree in Computer Science from [CICESE Research Centre](https://www.cicese.edu.mx/) and a degree in Computer Systems from [UAdeO](https://www.uadeo.mx/).
 
