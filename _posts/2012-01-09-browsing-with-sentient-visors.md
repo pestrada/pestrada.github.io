@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  Browsing with sentient visors
-date:   2013-05-09
 categories: projects
 ---
-During my Master of Science thesis, under the supervision of [Dr. J. Antonio Garcia Macias](http://usuario.cicese.mx/~jagm/), my research topic evolved from [navigating augmented spaces with scenario-based applications](/projects/2013/05/08/medication-intake-augmented-reality-system/) to a complete general-purpose browsing system for the Internet of Things. This browser was called the ‘Sentient Visor’.
+During my Master of Science thesis, under the supervision of [Dr. J. Antonio Garcia Macias](http://usuario.cicese.mx/~jagm/), my research topic evolved from [navigating augmented spaces with scenario-based applications](/projects/2012/01/08/medication-intake-augmented-reality-system/) to a complete general-purpose browsing system for the Internet of Things. This browser was called the ‘Sentient Visor’.
 
 Information heterogeneity becomes a problem for a user trying to consume data from augmented objects. Having a dedicated application and asking a user to install a particular software for each type of object would be undesirable. To avoid this situation, we proposed a design space to develop sentient visors that allow browsing the information space in the Internet of Things, consisting of six design dimensions:
 

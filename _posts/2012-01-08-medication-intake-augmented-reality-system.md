@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Medication intake augmented reality system
-date:   2013-05-08
 categories: projects
 ---
 During my Master of Science studies at [CICESE Research Centre](https://www.cicese.edu.mx/), I worked with [Dr. J. Antonio Garcia Macias](http://usuario.cicese.mx/~jagm/), who was my advisor in the UbiComp Lab. I did research about the interaction with smart objects in environments augmented with technology.
