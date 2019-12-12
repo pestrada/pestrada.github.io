@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Talk: Becoming a professional programmer"
-categories: android
+categories: talks
 ---
 I gave a talk at [Scio Consulting](http://www.scio.com.mx/) about what it takes to be a Professional Programmer.
 
