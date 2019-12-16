@@ -3,7 +3,7 @@ layout: post
 title:  "Talk: Becoming a professional programmer"
 categories: talks
 ---
-I gave a talk at [Scio Consulting](http://www.scio.com.mx/) about what it takes to be a Professional Programmer.
+I gave a talk at [Scio Consulting](http://www.scio.com.mx) about what it takes to be a Professional Programmer.
 
 My thanks to my colleagues and the audience for a great discussion after the talk.
 

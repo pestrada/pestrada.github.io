@@ -14,7 +14,7 @@ All the assistants were experienced with different technology stacks. The worksh
 - Threads for background tasks
 - WebView for Web mobile apps
 
-The workshop was held in CocoWorking, an open and collaborative working office for software engineers and technology enthusiasts. Special thanks to Hugo Hernandez ([Don Chambitas](http://donchambitas.com/)) for facilitating this place.
+The workshop was held in CocoWorking, an open and collaborative working office for software engineers and technology enthusiasts. Special thanks to Hugo Hernandez ([Don Chambitas](http://donchambitas.com)) for facilitating this place.
 
 ![android coworking1](/assets/images/android-cocoworking1.jpg){:height="225px" width="300px"}
 ![android coworking2](/assets/images/android-cocoworking2.jpg){:height="225px" width="300px"}
