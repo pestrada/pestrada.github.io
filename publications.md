@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /publications
 ---
 
 - Estrada-Martínez, P. E y García-Macías, J. A. 2013. “Semantic Interactions in the Internet of Things”. International Journal of Ad Hoc and Ubiquitous Computing. Inderscience Publishers. Vol. 13, No. 3/4, pp. 167- 175.

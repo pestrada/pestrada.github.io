@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: /teaching
 ---
 
 A list of courses, workshops and lectures I’ve taught over the years.

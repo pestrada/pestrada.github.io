@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research
 ---
 
 My research is focused on interactive systems and ubiquitous computing environments.
@@ -10,7 +10,7 @@ I am interested in the design and implementation of cross device interactions, n
 
 More generally, I seek to understand how to design and use technology that help people be more productive and efficient by means of collaborative and interactive systems.
 
-You can find samples of past projects on my [projects page](/projects/).
+You can find samples of past projects on my [projects page](/projects).
 
 **Research interests:**
 
