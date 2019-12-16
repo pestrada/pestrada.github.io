@@ -3,7 +3,7 @@ layout: post
 title:  Semantic communication through sentient visors
 categories: projects
 ---
-A key aspect in my [Sentient Visors project](/projects/browsing-with-sentient-visors/) was to allow intelligent communication and service discovery between the Sentient Visor and smart objects. Some problems we were trying to solve involved:
+A key aspect in my [Sentient Visors project](/projects/2012/01/09/browsing-with-sentient-visors/) was to allow intelligent communication and service discovery between the Sentient Visor and smart objects. Some problems we were trying to solve involved:
 
 - How to identify services exposed by smart objects
 - A way to define a formal representation of smart objects capabilities
