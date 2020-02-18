@@ -24,6 +24,6 @@ layout: home
 </style>
 
 ![paul estrada](/assets/images/paul-photo.jpg){:height="150px" width="110px" .photo}
-Hello, I am Paul Estrada, currently I'm a Software Engineering Lead at [Tiempo](http://www.tiempodev.com/), working on Android projects and contributing to software consultancy services.
+Hello, I'm Paul Estrada, currently I'm a Software Engineering Lead at [Tiempo](http://www.tiempodev.com/), working on Android projects and contributing to software consultancy services.
 {:.summary}
 
