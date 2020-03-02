@@ -25,9 +25,8 @@ A list of courses, workshops and lectures I’ve taught over the years.
 - Android mobile development
 - Ruby on Rails web development
 - Augmented Reality applications
-- Supervised students
 
-**Bachelor students**
+**Thesis advisor - Former Bachelor students**
 
 - Alan Hernandez. 2016. Multi-screen text editor with color schemes for web development courses.
 - Jose Angel Benitez. 2016. Web application for syncing HTML, CSS and JavaScript document models.
