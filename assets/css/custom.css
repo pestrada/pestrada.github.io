@@ -1,0 +1,46 @@
+.photo {
+    border-radius: 5px;
+    height: 150px;
+    width: 110px;
+    padding: 2px;
+    box-shadow: 0px 0px 2px 1px #555;
+    float: left;
+    margin-right: 20px;
+}
+.summary::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+header.site-header {
+    border-top: none;
+    background-color: #161b22;
+}
+header .site-title,
+header .site-title:visited,
+header .site-nav .page-link,
+header .site-nav .page-link:visited
+ {
+    color: #f0f6fc;
+}
+.social-icon {
+    height: 24px;
+    margin-right: 24px;
+    width: 24px;
+}
+.social-media-list li {
+    display: inline;
+}
+.site-footer {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    header .site-nav {
+        background-color: #21262d;
+    }
+    .site-nav .menu-icon > svg {
+        fill: #fff !important;
+    }
+}

@@ -5,25 +5,24 @@
 layout: home
 ---
 
-<style>
-    .photo {
-        border-radius: 5px;
-        height: 150px;
-        width: 110px;
-        padding: 2px;
-        box-shadow: 0px 0px 2px 1px #555;
-        float: left;
-        margin-right: 20px;
-    }
-    .summary::after {
-        content: "";
-        clear: both;
-        display: table;
-    }
-}
-</style>
-
 ![paul estrada](/assets/images/paul-photo.jpg){:height="150px" width="110px" .photo}
 Hello, I'm Paul Estrada, currently I'm a Software Engineering Lead at [Tiempo](http://www.tiempodev.com/), working on Android projects and contributing to software consultancy services.
-{:.summary}
 
+<ul class="social-media-list">
+    <li>
+        <a href="https://github.com/pestrada">
+            <img class="social-icon" src="/assets/images/github.png">
+        </a>
+    </li>
+    <li>
+        <a href="https://www.twitter.com/paulestm">
+            <img class="social-icon" src="/assets/images/twitter.png">
+        </a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/in/paulestm">
+            <img class="social-icon" src="/assets/images/linkedin.png">
+        </a>
+    </li>
+</ul>
+{:.summary}
