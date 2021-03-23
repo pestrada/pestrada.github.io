@@ -6,7 +6,8 @@ layout: home
 ---
 
 ![paul estrada](/assets/images/paul-photo.jpg){:height="150px" width="110px" .photo}
-Hello, I'm Paul Estrada, currently I'm a Software Engineering Lead at [Tiempo](http://www.tiempodev.com/), working on Android projects and contributing to software consultancy services.
+Hello, I'm Paul Estrada, Android Software Engineer at [Wizeline](https://www.wizeline.com/). This is a website for sharing stuff I do from time to time.
+Let's connect =)
 
 <ul class="social-media-list">
     <li>
