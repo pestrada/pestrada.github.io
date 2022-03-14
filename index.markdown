@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![paul estrada](/assets/images/paul-photo.jpg){:height="150px" width="110px" .photo}
+![paul estrada](/assets/images/paul-image.jpg){:.photo}
 Hello, I'm Paul Estrada, Android Software Engineer at [Wizeline](https://www.wizeline.com/).
 
 This is a website for sharing stuff I do from time to time. Let's connect =)
