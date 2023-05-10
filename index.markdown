@@ -6,7 +6,8 @@ layout: home
 ---
 
 ![paul estrada](/assets/images/paul-image.jpg){:.photo}
-Hello, I'm Paul Estrada, Android Software Engineer at [Wizeline](https://www.wizeline.com/).
+Hello, I'm Paul Estrada, Senior Software Engineer.
+I'm building Android Apps, helping development teams to improve performance, sharing knowledge whenever I can.
 
 This is a website for sharing stuff I do from time to time. Let's connect =)
 
